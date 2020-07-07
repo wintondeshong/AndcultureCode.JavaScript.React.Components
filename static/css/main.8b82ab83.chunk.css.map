@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8b82ab83.chunk.css","sources":["webpack:///storybook.css"],"sourcesContent":["div#story-root {\r\n    position: relative;\r\n    margin: 10px 40px;\r\n    background: #ffffff;\r\n}\r\n"],"mappings":"AAAA;AACA;AACA;AACA;AACA;;","sourceRoot":""}
